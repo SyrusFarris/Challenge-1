@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-tldr; noted changes start at line 30... This challenge is to make the website by our client, Horiseon, meet accessibility standards. We will work through the code and make adjustments where necessary to make sure everything meets the clients standards and our standards as professional developers. This readme will act as documentation referencing the changes made at specific lines of code within the html, css, and how they will positively impact the quality of the website, and the accessibility of the website for potential users/customers. Documentation will begin at line 30 of this readme doc.
+tldr; noted changes start at line 30... This challenge is to make the website by our client, Horiseon, meet accessibility standards. We will work through the code and make adjustments where necessary to make sure everything meets the clients standards and our standards as professional developers. This readme will act as documentation referencing the changes made at specific lines of code within the html, css, and how they will positively impact the quality of the website, and the accessibility of the website for potential users/customers. Documentation will begin at line 30 of this readme doc. webiste url: https://syrusfarris.github.io/Challenge-1/
 
 
 ## User Story
