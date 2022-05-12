@@ -55,8 +55,9 @@ The benifits, "aside", section was heavily consolidated to run with lesser code 
 
 The "content" section was heavily consolodated to run with lesser code, cleaning up the work flow of the code and website run performance. also all the code related to the content section was migrated in css to above the "benefits/aside" section. to show proper sequential order.
 
+![content-section-correction](./Develop/assets/images/content-section.jpg?raw=true "content-section-correctionimg")
+
 Notes were added throughout the css file to seperate the sections of code and to make it more readable and accessible for other developers.
 
-*** NOTE THAT LINE NUMBERS LISTED ABOVE REFERENCE THE PREVIOUS LOCATION OF LINES OF CODE THAT MAY HAVE CHANGED DUE TO NOTES BEING ADDED TO html/css TO SEPERATE SECTIONS OF CODE AND THE ADDITION/REMOVAL OF CODE FOR OPTOMIZATION!***# Challenge-1
-# Challenge-1
-# Challenge-1
+*** NOTE THAT LINE NUMBERS LISTED ABOVE REFERENCE THE PREVIOUS LOCATION OF LINES OF CODE THAT MAY HAVE CHANGED DUE TO NOTES BEING ADDED TO html/css TO SEPERATE SECTIONS OF CODE AND THE ADDITION/REMOVAL OF CODE FOR OPTOMIZATION!***
+
